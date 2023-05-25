@@ -1,0 +1,27 @@
+#banner-center{
+    border-radius: 50%;
+}
+.text-gradient{
+    background: -webkit-linear-gradient(#6f2de1, #b752e7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.grad-btn{
+    background: -webkit-linear-gradient(#6f2de1, #b752e7);
+}
+.txt-heading{
+    text-align: center;
+}
+.skill{
+    padding: 20px;
+    
+}
+.nav-link{
+    background: -webkit-linear-gradient(#6f2de1, #b752e7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#experience{
+    margin-bottom: 3rem;
+}
